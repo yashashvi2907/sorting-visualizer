@@ -29,5 +29,5 @@ cd sorting-visualizer
 npm install
 npm start
 
-## Built with ❤️ by [Yashashvi](https://github.com/yashashvi2907)
+Built with ❤️ by [Yashashvi](https://github.com/yashashvi2907)
 
